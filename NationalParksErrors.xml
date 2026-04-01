@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns="http://nationalparks.org"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://nationalparks.org NationalParks.xsd">
+
+	<NationalPark Rating="4.9">
+		<Name>Una National Park</Name>
+		<Phone>387-37-221-528</Phone>
+		<Phone>387-61-927-123</Phone>
+		<Address NearestAirport="Bihac">
+			<Number>1</Number>
+			<Street>Harmanski sokak</Street>
+			<City>Bihac</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>77000</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Sutjeska National Park</Name>
+		<Address>
+			<Number>1</Number>
+			<Street>Tjentiste</Street>
+			<City>Foca</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>73300</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Kozara National Park</Name>
+		<Name>Extra Kozara Name</Name>
+		<Phone>387-52-238-600</Phone>
+		<Address NearestAirport="Banja Luka">
+			<Number>1</Number>
+			<Street>Mrakovica</Street>
+			<City>Prijedor</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>79101</Zip>
+		</NationalPark>
+
+</NationalPark>
