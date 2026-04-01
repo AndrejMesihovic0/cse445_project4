@@ -11,17 +11,14 @@
     </xsd:documentation>
   </xsd:annotation>
 
-  <!-- Root element -->
   <xsd:element name="NationalParks" type="NationalParksType"/>
 
-  <!-- NationalParks type -->
   <xsd:complexType name="NationalParksType">
     <xsd:sequence>
       <xsd:element name="NationalPark" type="NationalParkType" minOccurs="1" maxOccurs="unbounded"/>
     </xsd:sequence>
   </xsd:complexType>
 
-  <!-- NationalPark type -->
   <xsd:complexType name="NationalParkType">
     <xsd:sequence>
       <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
@@ -29,11 +26,9 @@
       <xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1"/>
     </xsd:sequence>
 
-    <!-- Optional attribute -->
     <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
   </xsd:complexType>
 
-  <!-- Address type -->
   <xsd:complexType name="AddressType">
     <xsd:sequence>
       <xsd:element name="Number" type="xsd:string"/>
@@ -43,7 +38,6 @@
       <xsd:element name="Zip" type="xsd:string"/>
     </xsd:sequence>
 
-    <!-- Required attribute -->
     <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
   </xsd:complexType>
 
