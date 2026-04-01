@@ -4,43 +4,136 @@
                xsi:schemaLocation="http://nationalparks.org NationalParks.xsd">
 
 	<NationalPark Rating="4.9">
-		<Name>Grand Canyon</Name>
-		<Phone>928-638-7496</Phone>
-		<Phone>888-297-2757</Phone>
-		<Phone>866-499-2574</Phone>
-
-		<Address NearestAirport="FlagStaff">
-			<Number>8</Number>
-			<Street>S Entrance Road</Street>
-			<City>Grand Canyon</City>
-			<State>AZ</State>
-			<Zip>86023</Zip>
+		<Name>Una National Park</Name>
+		<Phone>387-37-221-528</Phone>
+		<Phone>387-61-927-123</Phone>
+		<Address NearestAirport="Bihac">
+			<Number>1</Number>
+			<Street>Harmanski sokak</Street>
+			<City>Bihac</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>77000</Zip>
 		</Address>
 	</NationalPark>
 
 	<NationalPark Rating="4.8">
-		<Name>Yellowstone</Name>
-		<Phone>307-344-7381</Phone>
-
-		<Address NearestAirport="Bozeman">
-			<Number>2</Number>
-			<Street>Grand Loop Road</Street>
-			<City>Yellowstone</City>
-			<State>WY</State>
-			<Zip>82190</Zip>
+		<Name>Sutjeska National Park</Name>
+		<Phone>387-58-233-130</Phone>
+		<Address NearestAirport="Sarajevo">
+			<Number>1</Number>
+			<Street>Tjentiste</Street>
+			<City>Foca</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>73300</Zip>
 		</Address>
 	</NationalPark>
 
 	<NationalPark>
-		<Name>Yosemite</Name>
-		<Phone>209-372-0200</Phone>
+		<Name>Kozara National Park</Name>
+		<Phone>387-52-238-600</Phone>
+		<Address NearestAirport="Banja Luka">
+			<Number>1</Number>
+			<Street>Mrakovica</Street>
+			<City>Prijedor</City>
+			<State>Bosnia and Herzegovina</State>
+			<Zip>79101</Zip>
+		</Address>
+	</NationalPark>
 
-		<Address NearestAirport="Fresno">
-			<Number>9035</Number>
-			<Street>Village Drive</Street>
-			<City>Yosemite Valley</City>
-			<State>CA</State>
-			<Zip>95389</Zip>
+	<NationalPark Rating="4.7">
+		<Name>Krka National Park</Name>
+		<Phone>385-22-201-777</Phone>
+		<Phone>385-22-201-755</Phone>
+		<Address NearestAirport="Split">
+			<Number>1</Number>
+			<Street>Trg Ivana Pavla II</Street>
+			<City>Skradin</City>
+			<State>Croatia</State>
+			<Zip>22222</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Plitvice Lakes National Park</Name>
+		<Phone>385-53-751-015</Phone>
+		<Address NearestAirport="Zagreb">
+			<Number>1</Number>
+			<Street>Josipa Jovica</Street>
+			<City>Plitvicka Jezera</City>
+			<State>Croatia</State>
+			<Zip>53231</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Paklenica National Park</Name>
+		<Phone>385-23-369-202</Phone>
+		<Address NearestAirport="Zadar">
+			<Number>1</Number>
+			<Street>Dr. Franje Tudmana</Street>
+			<City>Starigrad</City>
+			<State>Croatia</State>
+			<Zip>23244</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Durmitor National Park</Name>
+		<Phone>382-52-360-228</Phone>
+		<Address NearestAirport="Podgorica">
+			<Number>1</Number>
+			<Street>Trg durmitorskih ratnika</Street>
+			<City>Zabljak</City>
+			<State>Montenegro</State>
+			<Zip>84220</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Biogradska Gora National Park</Name>
+		<Phone>382-51-211-535</Phone>
+		<Address NearestAirport="Podgorica">
+			<Number>1</Number>
+			<Street>Kralja Petra</Street>
+			<City>Kolasin</City>
+			<State>Montenegro</State>
+			<Zip>81210</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Shar Mountain National Park</Name>
+		<Phone>383-44-700-112</Phone>
+		<Address NearestAirport="Pristina">
+			<Number>1</Number>
+			<Street>Shterpce Center</Street>
+			<City>Shterpce</City>
+			<State>Kosovo</State>
+			<Zip>73000</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Pelister National Park</Name>
+		<Phone>389-47-233-464</Phone>
+		<Address NearestAirport="Ohrid">
+			<Number>1</Number>
+			<Street>Plackovica</Street>
+			<City>Bitola</City>
+			<State>North Macedonia</State>
+			<Zip>7000</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Tara National Park</Name>
+		<Phone>381-31-865-644</Phone>
+		<Address NearestAirport="Belgrade">
+			<Number>1</Number>
+			<Street>Milenka Topalovica</Street>
+			<City>Bajina Basta</City>
+			<State>Serbia</State>
+			<Zip>31250</Zip>
 		</Address>
 	</NationalPark>
 
